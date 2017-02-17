@@ -1,0 +1,7 @@
+{
+    "plugins": [
+        "tree",
+        "page-treeview",
+        "asciitree"
+    ]
+}
